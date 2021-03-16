@@ -1,4 +1,4 @@
-import Login from '../../components/LoginForm'
+import Login from '../../Components/LoginForm'
 
 const LandingPage = () => {
 
